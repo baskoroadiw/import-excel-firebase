@@ -2,7 +2,7 @@
  
 ## Deskripsi
 
-Simpel import file excel ke Firebase Realtime Database menggunakan library [firebase-php](https://github.com/kreait/firebase-php)
+Simpel import file excel ke Firebase Realtime Database menggunakan library [`kreait/firebase-php`](https://github.com/kreait/firebase-php)
 
 ## Penggunaan
 
